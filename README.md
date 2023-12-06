@@ -30,6 +30,6 @@ Welcome to my portfolio! I am Shubham Tiwari, a passionate and versatile develop
 
 ## Contact
 
-Feel free to reach out to me at [shubham559tiwari@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-tiwari-966223253/)!
+Feel free to reach out to me at shubham559tiwari@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/shubham-tiwari-966223253/)!
 
 Let's build something amazing together! 🚀
