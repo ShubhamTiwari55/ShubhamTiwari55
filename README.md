@@ -15,7 +15,7 @@ Welcome to my portfolio! I am Shubham Tiwari, a passionate and versatile develop
   - Firebase: Firestore, Authentication, Cloud Functions
 
 - **Data Structures and Algorithms**
-  - Proficient in various data structures such as arrays, linked lists, trees, graphs, etc.
+  - Proficient in various data structures such as arrays, linked lists, trees, graphs, Dynamic programming etc.
   - Strong understanding of algorithmic complexities and problem-solving.
 
 - **AI/ML**
