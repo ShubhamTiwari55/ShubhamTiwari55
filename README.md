@@ -7,8 +7,9 @@ Welcome to my portfolio! I am Shubham Tiwari, a passionate and versatile develop
 
 - **Full Stack Web Development**
   - Frontend: HTML, CSS, JavaScript, React, NextJs
-  - Backend: Node.js, Express.js, MongoDB
-  - Additional: RESTful APIs, GraphQL
+  - Backend: Node.js, Express.js, GoLang
+  - Databases: MongoDB, PostgreSQL, MySQL, Firebase
+  - Additional: RESTful APIs, GraphQL, gRPC
 
 - **Flutter and Firebase**
   - Flutter: Dart, Flutter Widgets, State Management
@@ -22,6 +23,7 @@ Welcome to my portfolio! I am Shubham Tiwari, a passionate and versatile develop
   - Machine Learning: Scikit-Learn, TensorFlow
   - Natural Language Processing (NLP)
   - Deep Learning: Keras, PyTorch
+  - Generative AI: OpenAI, Gemini, Meta
 
 ## Education
 
